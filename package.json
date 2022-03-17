@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^17.0.21",
     "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
   }
 }
